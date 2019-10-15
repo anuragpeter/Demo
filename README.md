@@ -1,2 +1,2 @@
 # Demo
- java entreprise web app deveops springmvc hibernet 
+ java enterprise web app deveops springmvc hibernet 
